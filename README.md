@@ -38,6 +38,8 @@ and the result is __zero__. As expected. But there are other programing language
 | C#                  | 0   | https://dotnetfiddle.net/
 | F#                  | 0   | https://dotnetfiddle.net/
 | JavaScript          | 3.5 | https://www.codechef.com/cpp-online-compiler
+| TypeScript (`bigint`) | 0n | See [TypeScript README](./TypeScript/README.md)
+| TypeScript (`number`) | 3.5 | See [TypeScript README](./TypeScript/README.md)
 | VB.NET              | 4   | https://dotnetfiddle.net/
 
 
