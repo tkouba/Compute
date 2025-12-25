@@ -36,6 +36,11 @@ and the result is __zero__. As expected. But there are other programing language
 | ABAP (SAP)          | ?   |
 | C++                 | 0   | https://www.codechef.com/cpp-online-compiler
 | C#                  | 0   | https://dotnetfiddle.net/
+| F#                  | 0   | https://dotnetfiddle.net/
 | JavaScript          | 3.5 | https://www.codechef.com/cpp-online-compiler
 | VB.NET              | 4   | https://dotnetfiddle.net/
 
+
+## Community Guidelines
+
+By contributing to this project, you agree to follow our [Code of Conduct](./CODE_OF_CONDUCT.md).
