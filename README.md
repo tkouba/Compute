@@ -38,7 +38,6 @@ and the result is __zero__. As expected. But there are other programing language
 
 | Programing language | Result | Test environment
 | ------------------- | ------ | ---- 
-| ABAP (SAP)          | ?   |
 | C++                 | 0   | https://www.codechef.com/cpp-online-compiler
 | C#                  | 0   | [.NET Fiddle - https://dotnetfiddle.net/](https://dotnetfiddle.net/7FR46z)
 | F#                  | 0   | [.NET Fiddle - https://dotnetfiddle.net/](https://dotnetfiddle.net/B6PCUC)
@@ -46,6 +45,7 @@ and the result is __zero__. As expected. But there are other programing language
 | TypeScript (`bigint`) | 0n | See [TypeScript README](./TypeScript/README.md)
 | TypeScript (`number`) | 3.5 | See [TypeScript README](./TypeScript/README.md)
 | VB.NET              | 4   | [.NET Fiddle - https://dotnetfiddle.net/](https://dotnetfiddle.net/8B1B64)
+| Pascal              | 0   | [One Compiler - https://onecompiler.com/pascal/](https://onecompiler.com/pascal/44k8vp5jr). See [Pascal README](./Pascal/README.md)
 
 
 ## Community Guidelines
